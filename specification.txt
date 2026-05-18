@@ -1,0 +1,43 @@
+HTML tags
+
+h1
+h2
+h3
+h4
+h5
+h6
+hr
+br
+a
+img
+
+CSS properties
+
+max-width
+text-align
+color
+margin
+background-color
+font-family
+border
+border-radius
+font-size
+font-weight
+line-height
+padding
+transition
+vertical-align
+display
+
+CSS selectors
+
+.center-text
+body
+button
+input[type="submit"]
+.center-text_nocolor
+.center-text_blue
+#main-title
+img
+
+I used javascript to make the quiz and to interpret if it was the right answer and I used bootstrap to make the site navigator.
